@@ -1,0 +1,10 @@
+body {
+    padding: 20px;
+}
+button {
+    margin-right: 10px;
+    display: inline-block;
+}
+a {
+    margin-right: 8px;
+}
